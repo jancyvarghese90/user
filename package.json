@@ -1,0 +1,16 @@
+{
+  "name": "mernjuly2024",
+  "version": "1.0.0",
+  "main": "AssignmentJuly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "init": "^0.1.2",
+    "prompt": "^1.3.0"
+  }
+}
